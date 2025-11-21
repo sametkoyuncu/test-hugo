@@ -1,0 +1,11 @@
+# Hugo
+public/
+resources/
+.hugo_build.lock
+
+# Node/JS
+node_modules/
+dist/
+
+# macOS
+.DS_Store

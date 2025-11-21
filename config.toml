@@ -1,0 +1,4 @@
+baseURL = "https//test.com"
+languageCode = "en-us"
+title = "Test"
+theme = "PaperMod"
